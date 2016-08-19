@@ -7,9 +7,6 @@
 3 d
 4 e
 
-
-
-
 #convert a list to string:
 
 list1 = ['1', '2', '3']
